@@ -1,10 +1,8 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2016
-  qualification: BSc Computer Science
+  name:  University of Payam Noor
+  dates: 2011
+  qualification: Bachelor of Information Technology
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  Payame Noor University is a public multi-campus university and one of the largest universities in Iran, and a mega university in world, with its headquarters in Tehran, 31 provincial centers, 500 local study centers, other campuses around the country, and an International Study Center located in the headquarters in Tehran. Established in 1988, is a legal body under the Ministry of Science, Research and Technology.
   description: | # this will include new lines to allow paragraphs
     
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
