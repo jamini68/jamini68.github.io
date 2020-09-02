@@ -28,10 +28,9 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
-# Plus Section
-# plus_title: Skills
-plus_content: | # this will include new lines to allow paragraphs
-  
+# Skill Section
+# skill_title: Skills
+
 
 # Footer
 footer_show_references: true
