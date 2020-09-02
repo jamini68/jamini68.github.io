@@ -18,7 +18,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 My Name is 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
